@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "danussh",
+      "name": "danussh arvind",
+      "password": "danussh",
+      "email": "danussh1998@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "danussh1",
+      "name": "Danussh Arvind B.R",
+      "password": "danussh1",
+      "email": "danussh1998@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    }
+  ]
+}
